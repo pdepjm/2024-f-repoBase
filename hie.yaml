@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "proyectoBase:lib"
+
+    - path: "./test"
+      component: "proyectoBase:test:proyectoBase-test"
